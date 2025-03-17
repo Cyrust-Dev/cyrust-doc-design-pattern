@@ -45,3 +45,8 @@ cyrust-doc-design-pattern/
     Cargo.toml
     README.md
 ```
+
+## Reference
+
+* https://refactoring.guru/
+* https://rust-unofficial.github.io/patterns/
